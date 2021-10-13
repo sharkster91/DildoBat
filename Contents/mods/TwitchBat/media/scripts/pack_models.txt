@@ -1,0 +1,7 @@
+module Base
+{
+model TwitchBat
+    {
+        mesh = weapons/2handed/TwitchBat,
+    }	
+}

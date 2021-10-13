@@ -1,0 +1,9 @@
+module TB
+{
+    fixing TwitchBat
+    {
+       Require : TwitchBat,
+       
+       Fixer : DuctTape=2,
+    }
+}

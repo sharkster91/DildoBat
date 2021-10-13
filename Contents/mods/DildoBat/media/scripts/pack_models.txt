@@ -1,0 +1,8 @@
+module Base
+{
+    
+model DildoBat
+    {
+        mesh = weapons/2handed/DildoBat,
+    }	
+}
