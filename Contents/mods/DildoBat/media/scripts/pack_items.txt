@@ -1,10 +1,10 @@
-module HQ
+module DB
 {
-    item HQBat
+    item DildoBat
     {
 
 		MaxRange	=	1.25,
-		WeaponSprite	=	HQBat,
+		WeaponSprite	=	DildoBat,
 		MinAngle	=	0.75,
 		Type	=	Weapon,
 		MinimumSwingTime	=	3,
@@ -21,13 +21,13 @@ module HQ
 		DoorDamage	=	5,
 		IdleAnim	=	Idle_Weapon2,
 		SwingAnim	=	Bat,
-		DisplayName	=	Harley Quinn's Bat,
+		DisplayName	=	Dildo Bat,
 		MinRange	=	0.61,
 		SwingTime	=	3,
 		HitAngleMod	=	-30,
 		KnockdownMod	=	2,
 		SplatBloodOnNoDeath	=	FALSE,
-		Icon	=	BaseballBat,
+		Icon	=	DildoBat,
 		RunAnim	=	Run_Weapon2,
         TwoHandWeapon = TRUE,
         BreakSound  =   BaseballBatBreak,
@@ -37,7 +37,7 @@ module HQ
 		SwingSound = BaseballBatSwing,
         TreeDamage  =   1,
 		CriticalChance	=	40,
-		critDmgMultiplier = 2,
+		CritDmgMultiplier = 2,
 		MinDamage	=	0.8,
 		MaxDamage	=	1.1,
 		BaseSpeed = 1,

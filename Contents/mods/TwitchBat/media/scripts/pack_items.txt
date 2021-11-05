@@ -27,7 +27,7 @@ module TB
 		HitAngleMod	=	-30,
 		KnockdownMod	=	2,
 		SplatBloodOnNoDeath	=	FALSE,
-		Icon	=	DildoBat,
+		Icon	=	TwitchBat,
 		RunAnim	=	Run_Weapon2,
         TwoHandWeapon = TRUE,
         BreakSound  =   BaseballBatBreak,
