@@ -4,5 +4,10 @@ module Base
 model DildoBat
     {
         mesh = weapons/2handed/DildoBat,
-    }	
+    }
+
+model LouisvillePlugger
+    {
+        mesh = weapons/1handed/LouisvillePlugger,
+    }		
 }
